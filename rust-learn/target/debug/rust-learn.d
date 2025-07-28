@@ -1,0 +1,1 @@
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/rust-learn/rust-crash-course/rust-learn/target/debug/rust-learn: /Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/rust-learn/rust-crash-course/rust-learn/src/main.rs
